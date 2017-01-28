@@ -1,4 +1,4 @@
-package learnGitHub;
+package renamingLearnGitHub;//changing package name, then push to github
 
 public class LearnGitHub {
 
